@@ -1,0 +1,87 @@
+#sidebar {
+    background-color: #4b545c;
+}
+
+#notebook header{
+    background-color: #4b545c;
+    border: 1px solid #4b545c;
+}
+
+#notebook tab{
+    background-color: #4b545c;
+    color: #ffffff;
+    font-size: 14px;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+
+#notebook tab:hover {
+    background-color: #717E8A;
+    border-color: #636f7a #576069 #000000;
+}
+
+.font{
+    font-family: "Arial";
+    font-size: 14px;
+}
+
+.button-slide-down {
+    background-image: none;
+    background-color: #717E8A;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #717E8A;
+    box-shadow: 0 0 0 0px;
+}
+
+.button-slide-down:hover {
+    background-color: #82919E;
+}
+
+.button-slide-down:active {
+    background-color: #92A4B3;
+}
+
+.button-sec {
+    background-image: none;
+    background-color: #A3B6C7;
+    color: black;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 1px solid #A3B6C7;
+    box-shadow: 0 0 0 0px;
+}
+
+.button-sec:hover {
+    background-color: #B4C9DB;
+}
+
+.button-sec:active {
+    background-color: #C5DCF0;
+}
+
+.button-pagination {
+    background-image: none;
+    background-color: #717E8A;
+    color: white;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 1px solid #717E8A;
+    box-shadow: 0 0 0 0px;
+}
+
+.button-pagination:hover {
+    background-color: #82919E;
+}
+
+.button-pagination:active {
+    background-color: #92A4B3;
+}
+
+.paginas {
+    background-color: #4b545c;
+    color: #ffffff;
+    font-size: 14px;
+    padding-left: 10px;
+}
